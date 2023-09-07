@@ -21,7 +21,12 @@ To receive full credit you must:
    
 ### Part 2: Unix practice
 
-Here's a chance for you to practice the new unix commands we've looked at in class. You'll also be able to 
+Here's a chance for you to practice the new Unix commands we've looked at in class. Some guidelines:
+
+* You'll  need to be able to use a command's `man` page to learn about new things these commands can do.
+* As before, you will practice a few times, and then once you have it down, you can take a video. 
+* Feel free in your video to use "sanity-check" commands (e.g., `ls` and `pwd`) that are not specified in the instructions below.
+* It's okay if you make a mistake in your video, but only if it's easy for you to recover from it. For example, if you mistype a file name, it's okay -- just keep going. On the other hand, if you accidentally delete a file, start over.
 
 ### Part 3: Show me your text editor skills
 
