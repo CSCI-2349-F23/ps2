@@ -66,14 +66,16 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 20. Print out the number of lines containing the string "candle" in `les_miz_english.txt`?
 21. Print out the number of lines containing the string "candle" or "Candle" in `les_miz_english.txt`?
 22. Print out the number of lines containing the **word** "candle" or "Candle" in `les_miz_english.txt`?
-23. Print out the number of lines beginning with "What" in `Walden.txt`.
+23. Print out the all lines beginning with "What" in `Walden.txt`.
 24. Print out the number of lines ending with "y" in `Walden.txt`.
 25. Use a command to inspect the contents of `Walden.txt`.
 
 #### Q8: You should see plenty of lines in `Walden.txt` that seem to end in "y". Most likely, your command for task 24, above, reported that there were no lines that ended in "y". At the very least, the first command that you called reported 0 matches, though you might have figured out  away around this after you did task 25. What could explain this discrepancy?
 
-26. Execute a command on `Walden.txt` that will make #24 report the correct number of lines ending in "y" in `Walden.txt`.
-27. How many lines in `les_miz_french.txt` do not have an "e"?
+26. Execute a command on `Walden.txt` that will make it possible to use a simple regular expression to report the correct number of lines ending in "y" in `Walden.txt`.
+27. Repeat task #24, above.
+28. 
+29. Print out the number of lines in `les_miz_french.txt` do not have an "e"?
 
 
 #### List of commands for Exercises A, B, and C
