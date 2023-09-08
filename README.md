@@ -23,7 +23,7 @@ To receive full credit you must:
 
 Here's a chance for you to practice the new Unix commands we've looked at in class. You might need to use a command's `man` page or to read about the command on the internet to discover the interesting things these commands can do. Log into `cslab` and execute unix commands to complete each numbered task in Exercises A, B, and C.
 
-As before, you will be taking a video of your screen as you type the commands. Practice a few times until you feel comfortable, then take your video. You will also submit your command history from the recording session. More details are provided below.
+As before, you will be taking a video of your screen as you type the commands. Practice a few times until you feel comfortable, then take your video. You will also submit your command history from the recording session. Finally, you'll provide written answers to some questions. More details are provided below.
 
 #### Exercise A 
 1. Create a directory called `ps2`
@@ -72,7 +72,7 @@ As before, you will be taking a video of your screen as you type the commands. P
 24. Print out the number of lines ending with "y" in `Walden.txt`.
 25. Use a command to inspect the contents of `Walden.txt`.
 
-#### Q8: You should see plenty of lines in `Walden.txt` that seem to end in "y". Most likely, your command for task 24, above, reported that there were no lines that ended in "y". At the very least, the first command that you called reported 0 matches, though you might have figured out  away around this after you did task 25. What could explain this discrepancy?
+#### Q8: You should see plenty of lines in `Walden.txt` that seem to end in "y". Most likely, your command for task 24, above, reported that there were no lines that ended in "y". At the very least, the first command that you called reported 0 matches, though you might have figured out away around this after you did task 25. What could explain this discrepancy?
 
 26. Execute a command on `Walden.txt` that will make it possible to use a simple regular expression to report the correct number of lines ending in "y" in `Walden.txt`.
 27. Repeat task #24, above.
@@ -83,20 +83,23 @@ As before, you will be taking a video of your screen as you type the commands. P
 32. Print out the number of lines in `les_miz_french2.txt` that contain any number between 0 and 5.
 
 
-#### List of commands for Exercises A, B, and C
-Use the `history` command or the `.bash_history` to print out all 25 commands, above, to a file called `ps2_part2.txt`. It's okay if you have more
+#### Submission Component 1: List of commands for Exercises A, B, and C
+Use the `history` command (along with a few other unix tricks you know) to print out all 32 commands, above, to a file called `ps2_part2.txt`. It's okay, of course, if you include more than 32 commands. You might have some errors or typos, or perhaps you did some sanity checking (e.g., checking your current directory or its contents). Submit this file to Canvas.
 
-#### Video for Exercises A, B, and C
-Make a video of your terminal carrying out the above activities, numbered 1 through 25. Here are some guidelines:
+#### Submission Component 2: Video for Exercises A, B, and C
+Make a video called `ps2_part2.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 32. Submit this video to Canvas. Here are some guidelines:
 
-* As before, you will practice a few times, and then once you have it down, you can take a video. 
+* As before, practice a few times, and then once you have it down, take the video. 
 * Feel free in your video to use "sanity-check" commands (e.g., `ls` and `pwd`) that are not specified in the instructions below.
 * It's okay if you make a mistake in your video, but only if it's easy for you to recover from it. For example, if you mistype a file name, it's okay -- just keep going. On the other hand, if you accidentally delete a file, start over.
-* If it's easier you can do three separate videos 
+
+#### Submission Component 3: Answers to Questions Q1 through Q8
+Submit a pdf, called `ps2_part2.pdf` of your answers to Questions Q1 through Q8 to Canvas. Give thoughtful answers using complete sentences to receive full credit.
 
 
 
 ### Part 3: Show me your text editor skills
+Now you will get to show me that you are learning how to use a text editor. As discussed in class, you can use emacs or vim. They are 
 
 ---
 
