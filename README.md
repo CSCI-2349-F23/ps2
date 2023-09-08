@@ -21,11 +21,11 @@ To receive full credit you must:
    
 ### Part 2: Unix Practice
 
-Here's a chance for you to practice the new Unix commands we've looked at in class. You'll need to be able to use a command's `man` page to learn about new things these commands can do.
+Here's a chance for you to practice the new Unix commands we've looked at in class. You'll might need to use a command's `man` page or to read about the command on the internet to learn about the interesting things these commands can do. Log into `cslab` and execute unix commands to complete each numbered task in Exercises A, B, and C.
 
 #### Exercise A 
-1. Log into `cslab`.
-2. Create a directory called `ps2` and move into that directory.
+1. Create a directory called `ps2`
+2. Move into that directory.
 3. Get the file at this location: `https://www.gutenberg.org/files/17489/17489-8.txt`
 4. Rename the file to `les_miz_french1.tzt`
 5. Get this file at this location: `https://www.gutenberg.org/ebooks/17489.txt.utf-8`
@@ -43,8 +43,6 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 
 #### Q4: What kind of operating system do you think might have been used to create these files? Explain your answer.
 
-#### Q5: What command would you call to convert these files so that they would look like they were created by a different OS?
-
 #### Exercise B
 
 11. Now download this file `https://www.gutenberg.org/files/205/205-0.txt` and rename it to `Walden.txt`.
@@ -54,19 +52,32 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 15. Convert `Walden.txt` from `ISO8859-1` to `utf8` and save the file as `Walden-utf8.txt`.
 16. Use a unix command to look at the differences between `Walden.txt` and `Walden-utf8.txt`.
 
-#### Q6: Are the two files different? If so, describe how they differ with examples.
+#### Q5: Are the two files different? If so, describe how they differ with examples.
 
-#### Q7: Do you think the conversion worked correctly? Explain your response with examples. 
+#### Q6: Do you think the conversion worked correctly? Explain your response with examples. 
 
-#### Q8: What text phenomenon do you see in the converted version of "Walden" that we learned about in class and the readings?
+#### Q7: What text phenomenon do you see in the converted version of "Walden" that we learned about in class and the readings?
 
 #### Exercise C
 
 17. Confirm your current directory. You should still be in `/home/yourusername/ps2`.
 18. List the short version of the contents of this directory.
-19. How many lines contain the word "woman" in `les_miz_english.txt`?
-20. How many lines contain the word "woman" 
+19. Print out the number of lines in each book.
+20. Print out the number of lines containing the string "candle" in `les_miz_english.txt`?
+21. Print out the number of lines containing the string "candle" or "Candle" in `les_miz_english.txt`?
+22. Print out the number of lines containing the **word** "candle" or "Candle" in `les_miz_english.txt`?
+23. Print out the number of lines beginning with "What" in `Walden.txt`.
+24. Print out the number of lines ending with "y" in `Walden.txt`.
+25. Use a command to inspect the contents of `Walden.txt`.
 
+#### Q8: You should see plenty of lines in `Walden.txt` that seem to end in "y". Most likely, your command for task 24, above, reported that there were no lines that ended in "y". At the very least, the first command that you called reported 0 matches, though you might have figured out  away around this after you did task 25. What could explain this discrepancy?
+
+26. Execute a command on `Walden.txt` that will make #24 report the correct number of lines ending in "y" in `Walden.txt`.
+
+
+
+#### List of commands for Exercises A, B, and C
+Use the `history` command or the `.bash_history` to print out all 25 commands, above, to a file called `ps2_part2.txt`. It's okay if you have more
 
 #### Video for Exercises A, B, and C
 Make a video of your terminal carrying out the above activities, numbered 1 through 25. Here are some guidelines:
@@ -74,6 +85,7 @@ Make a video of your terminal carrying out the above activities, numbered 1 thro
 * As before, you will practice a few times, and then once you have it down, you can take a video. 
 * Feel free in your video to use "sanity-check" commands (e.g., `ls` and `pwd`) that are not specified in the instructions below.
 * It's okay if you make a mistake in your video, but only if it's easy for you to recover from it. For example, if you mistype a file name, it's okay -- just keep going. On the other hand, if you accidentally delete a file, start over.
+* If it's easier you can do three separate videos 
 
 
 
