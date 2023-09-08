@@ -97,7 +97,6 @@ Make a video called `ps2_part2.mov` (replace `mov` with whatever file extension 
 Submit a pdf, called `ps2_part2.pdf` of your answers to Questions Q1 through Q8 to Canvas. Give thoughtful answers using complete sentences to receive full credit.
 
 
-
 ### Part 3: Show me your text editor skills
 Now you will get to show me that you are learning how to use a text editor. As discussed in class, you can use emacs or vim. They are 
 
