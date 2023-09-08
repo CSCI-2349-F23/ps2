@@ -21,15 +21,17 @@ To receive full credit you must:
    
 ### Part 2: Unix Practice
 
-Here's a chance for you to practice the new Unix commands we've looked at in class. You'll might need to use a command's `man` page or to read about the command on the internet to learn about the interesting things these commands can do. Log into `cslab` and execute unix commands to complete each numbered task in Exercises A, B, and C.
+Here's a chance for you to practice the new Unix commands we've looked at in class. You might need to use a command's `man` page or to read about the command on the internet to discover the interesting things these commands can do. Log into `cslab` and execute unix commands to complete each numbered task in Exercises A, B, and C.
+
+As before, you will be taking a video of your screen as you type the commands. Practice a few times until you feel comfortable, then take your video. You will also submit your command history from the recording session. More details are provided below.
 
 #### Exercise A 
 1. Create a directory called `ps2`
 2. Move into that directory.
 3. Get the file at this location: `https://www.gutenberg.org/files/17489/17489-8.txt`
-4. Rename the file to `les_miz_french1.tzt`
+4. Rename the file to `les_miz_french1.txt`
 5. Get this file at this location: `https://www.gutenberg.org/ebooks/17489.txt.utf-8`
-6. Rename the file to `les_miz_french2.tzt`
+6. Rename the file to `les_miz_french2.txt`
 7. Get this file at this location: `https://www.gutenberg.org/files/135/old/lesms10.txt`
 8. Rename the file to `les_miz_english.txt`
 9. Using a single command, print out the file format and encoding of the three files.
@@ -46,9 +48,9 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 #### Exercise B
 
 11. Now download this file `https://www.gutenberg.org/files/205/205-0.txt` and rename it to `Walden.txt`.
-12. Create a file called `file_contents.txt` whose first line says "Here is information about my books".
+12. Using a single line containing one or more unix commands, create a file called `file_contents.txt` whose first line says "Here is information about my books".
 13. Append to that file a list of the detailed contents of the `ps2` directory, making sure the size is human readable and the files are ordered in reverse alphabetical order.
-14. Create a new file called `book_list.txt` that contains all of the lines of `file_contents.txt` except for the line containing information about `file_contents.txt` itself. **You must create this file using a single line containing one more more unix commands. You may not directly edit the file with vim or emacs.** It might be helpful to explore the `man` page for a few of the commands we have learned. There are several different ways to do this.
+14. Create a new file called `book_list.txt` that contains all of the lines of `file_contents.txt` except for the line containing information about `file_contents.txt` itself. **Again, you must create this file using a single line containing one more more unix commands. You may not directly edit the file with vim or emacs.** It might be helpful to explore the `man` page for a few of the commands we have learned. There are several different ways to do this, all of which are fine!
 15. Convert `Walden.txt` from `ISO8859-1` to `utf8` and save the file as `Walden-utf8.txt`.
 16. Use a unix command to look at the differences between `Walden.txt` and `Walden-utf8.txt`.
 
@@ -74,8 +76,11 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 
 26. Execute a command on `Walden.txt` that will make it possible to use a simple regular expression to report the correct number of lines ending in "y" in `Walden.txt`.
 27. Repeat task #24, above.
-28. 
-29. Print out the number of lines in `les_miz_french.txt` do not have an "e"?
+28. Print out the number of lines in `Walden.txt` containing the string "the house".
+29. Print out the number of lines in `Walden.txt` containg the word "the" and the word "house". The two words do not have to appear next to each other, but they can.
+30. Print out the number of lines in `les_miz_french1.txt` do not contain "e".
+31. Print out the number of lines in `les_miz_french1.txt` do not contain "e" *and* are not blank lines or lines containing only space.
+32. Print out the number of lines in `les_miz_french2.txt` that contain any number between 0 and 5.
 
 
 #### List of commands for Exercises A, B, and C
