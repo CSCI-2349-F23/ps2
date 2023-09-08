@@ -73,7 +73,7 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 #### Q8: You should see plenty of lines in `Walden.txt` that seem to end in "y". Most likely, your command for task 24, above, reported that there were no lines that ended in "y". At the very least, the first command that you called reported 0 matches, though you might have figured out  away around this after you did task 25. What could explain this discrepancy?
 
 26. Execute a command on `Walden.txt` that will make #24 report the correct number of lines ending in "y" in `Walden.txt`.
-
+27. How many lines in `les_miz_french.txt` do not have an "e"?
 
 
 #### List of commands for Exercises A, B, and C
