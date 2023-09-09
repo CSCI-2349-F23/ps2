@@ -26,6 +26,8 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 
 As before, you will be taking a video of your screen as you type the commands. Practice a few times until you feel comfortable, then take your video. You will also submit your command history from the recording session. Finally, you'll provide written answers to some questions. More details are provided below.
 
+*Note: It's a good idea to copy and paste the URLs! You may not copy and paste anthing else in your video.*
+
 #### Exercise A 
 1. Create a directory called `ps2`
 2. Move into that directory.
@@ -127,10 +129,13 @@ The first step is to take a tutorial. Unless you are already very proficient in 
 14. Quit the editor.
 
 #### Submission Component 4: Video for Exercise E
-Make a video called `ps2_part3_video.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 14. Submit this video to Canvas. Here are some guidelines:
+Make a video called `ps2_part3_video.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 14. Submit this video to Canvas. Here are some guidelines and rules:
 
 * As before, practice a few times, and then once you have it down, take the video. 
 * It's okay if you make a mistake in your video. Use your skills to recover from any mistakes you make.
+* You **are** permitted to copy and paste the URLs.
+* You **may not** use copy and paste any other command in your video.
+* You **may not** use up arrow or down arrow to access the command history in your video.
 
 ---
 
