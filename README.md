@@ -114,15 +114,15 @@ The first step is to take a tutorial. Unless you are already very proficient in 
 1. Open `Walden.txt` in your text editor.
 2. Go to the end of the file.
 3. Go back to the beginning of the file.
-4. Go to line 79.
+4. Go to line 80.
 5. Go to the end of the line.
 6. Go back to the beginning of the line.
 7. Search for the word "the" from the beginning of that line.
 8. Go to the beginning of the file.
-9. Count the number of instances of the string "woods".
-10. Replace every instance of "house" with "mojo dojo casa house".
-11. Go to line 400.
-12. Kill line 400.
+9. Replace every instance of "house" with "mojo dojo casa house".
+10. Go to line 400.
+11. Find the next instances of "woods".
+11. Kill that line.
 13. Save the file as `Walden_improved.txt`.
 14. Quit the editor.
 
