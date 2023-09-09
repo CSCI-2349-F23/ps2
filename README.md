@@ -95,6 +95,9 @@ Make a video called `ps2_part2_video.mov` (replace `mov` with whatever file exte
 * As before, practice a few times, and then once you have it down, take the video. 
 * Feel free in your video to use "sanity-check" commands (e.g., `ls` and `pwd`) that are not specified in the instructions below.
 * It's okay if you make a mistake in your video, but only if it's easy for you to recover from it. For example, if you mistype a file name, it's okay -- just keep going. On the other hand, if you accidentally delete a file, start over.
+* You **are** permitted to copy and paste the URLs.
+* You **may not** use copy and paste any other command in your video.
+* You **may not** use up arrow or down arrow to access the command history in your video.
 
 #### Submission Component 3: Answers to Questions Q1 through Q8
 Submit a pdf, called `ps2_part2_answers.pdf` of your answers to Questions Q1 through Q8 to Canvas. Give thoughtful answers using complete sentences to receive full credit.
@@ -133,9 +136,6 @@ Make a video called `ps2_part3_video.mov` (replace `mov` with whatever file exte
 
 * As before, practice a few times, and then once you have it down, take the video. 
 * It's okay if you make a mistake in your video. Use your skills to recover from any mistakes you make.
-* You **are** permitted to copy and paste the URLs.
-* You **may not** use copy and paste any other command in your video.
-* You **may not** use up arrow or down arrow to access the command history in your video.
 
 ---
 
