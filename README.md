@@ -98,7 +98,32 @@ Submit a pdf, called `ps2_part2.pdf` of your answers to Questions Q1 through Q8 
 
 
 ### Part 3: Show me your text editor skills
-Now you will get to show me that you are learning how to use a text editor. As discussed in class, you can use emacs or vim. They are 
+Now you will get to show me that you are learning how to use a text editor. As discussed in class, you can use emacs or vim. You can pick whichever you like. 
+
+#### Exercise A: Take the tutorial
+
+The first step is to take a tutorial. Unless you are already very proficient in one of these editors, you should try out the tutorial. I even learned a few things when I tried it myself today.
+
+* **emacs** has a tutorial built into it, which is how I learned emacs when I was your age! Launch emacs by typing `emacs1` at the command line when you log into `cslab`. Then type `Ctr-h t`. (Hold down the control key and type `h`. Then type `t`.) *Pro-tip: On a Mac, go to Terminal->Settings/Preferences->Profiles->Keyboard, and check "Use Option as Meta key" so that you don't need to use the `esc` key for Meta.*
+
+* **vim** also has a tutorial installed on most linux distributions, including `cslab`. You can run it by typing `vimtutor` after you log in. *Pro-tip: You can use the arrow keys to move around a file, even though they teach you to use `h, l, j, k`.*
+
+#### Exercise B: Do some stuff with your chosen text editor
+
+1. Open `Walden.txt` in your text editor.
+2. Go to the end of the file.
+3. Go back to the beginning of the file.
+4. Go to line 79.
+5. Go to the end of the line.
+6. Go back to the beginning of the line.
+7. Search for the word "the" from the beginning of that line.
+8. Go to the beginning of the file.
+9. Count the number of instances of the string "woods".
+10. Replace every instance of "house" with "mojo dojo casa house".
+11. Go to line 400.
+12. Kill line 400.
+13. Save the file as `Walden_improved.txt`.
+14. Quit the editor.
 
 ---
 
