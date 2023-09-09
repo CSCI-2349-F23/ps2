@@ -1,9 +1,12 @@
 # Problem Set 2 
 
-To receive full credit you must:
+This problem set had four components that must be submitted.
 
-* thing 1
-* thing 2
+* Component 1: List of commands for Exercises A, B, and C
+* Component 2: Video for Exercises A, B, and C
+* Component 3: Answers to Questions Q1 through Q8
+* Component 4: Video for Exercise D
+
 
 **All components of this problem set are due by Friday, September 15, by 11:59pm Boston time.**
 
