@@ -98,6 +98,7 @@ Make a video called `ps2_part2_video.mov` (replace `mov` with whatever file exte
 * You **are** permitted to copy and paste the URLs.
 * You **may not** use copy and paste any other command in your video.
 * You **may not** use up arrow or down arrow to access the command history in your video.
+* Delete the files created during practice sessions so that you know you are doing things correctly and completely in your video.
 
 #### Submission Component 3: Answers to Questions Q1 through Q8
 Submit a pdf, called `ps2_part2_answers.pdf` of your answers to Questions Q1 through Q8 to Canvas. Give thoughtful answers using complete sentences to receive full credit.
