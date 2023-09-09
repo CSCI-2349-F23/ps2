@@ -26,7 +26,7 @@ Here's a chance for you to practice the new Unix commands we've looked at in cla
 
 As before, you will be taking a video of your screen as you type the commands. Practice a few times until you feel comfortable, then take your video. You will also submit your command history from the recording session. Finally, you'll provide written answers to some questions. More details are provided below.
 
-*Note: It's a good idea to copy and paste the URLs! You may not copy and paste anthing else in your video.*
+*Note: It's a good idea to copy and paste the URLs! You may not copy and paste anything else in your video.*
 
 #### Exercise A 
 1. Create a directory called `ps2`
@@ -111,7 +111,7 @@ Now you will get to show me that you are learning how to use a text editor. As d
 
 The first step is to take a tutorial. Unless you are already very proficient in one of these editors, you should try out the tutorial. I even learned a few things when I tried it myself today.
 
-* **emacs** has a tutorial built into it, which is how I learned emacs when I was your age! Launch emacs by typing `emacs1` at the command line when you log into `cslab`. Then type `Ctr-h t`. (Hold down the control key and type `h`. Then type `t`.) *Pro-tip: On a Mac, go to Terminal->Settings/Preferences->Profiles->Keyboard, and check "Use Option as Meta key" so that you don't need to use the `esc` key for Meta.*
+* **emacs** has a tutorial built into it, which is how I learned emacs when I was your age! Launch emacs by typing `emacs` at the command line when you log into `cslab`. Then type `Ctr-h t`. (Hold down the control key and type `h`. Then type `t`.) *Pro-tip: On a Mac, go to Terminal->Settings/Preferences->Profiles->Keyboard, and check "Use Option as Meta key" so that you don't need to use the `esc` key for Meta.*
 
 * **vim** also has a tutorial installed on most linux distributions, including `cslab`. You can run it by typing `vimtutor` after you log in. *Pro-tip: You can use the arrow keys to move around a file, even though they teach you to use `h, l, j, k`.*
 
