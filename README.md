@@ -100,7 +100,7 @@ Submit a pdf, called `ps2_part2.pdf` of your answers to Questions Q1 through Q8 
 ### Part 3: Show me your text editor skills
 Now you will get to show me that you are learning how to use a text editor. As discussed in class, you can use emacs or vim. You can pick whichever you like. 
 
-#### Exercise A: Take the tutorial
+#### Exercise D: Take the tutorial
 
 The first step is to take a tutorial. Unless you are already very proficient in one of these editors, you should try out the tutorial. I even learned a few things when I tried it myself today.
 
@@ -108,7 +108,7 @@ The first step is to take a tutorial. Unless you are already very proficient in 
 
 * **vim** also has a tutorial installed on most linux distributions, including `cslab`. You can run it by typing `vimtutor` after you log in. *Pro-tip: You can use the arrow keys to move around a file, even though they teach you to use `h, l, j, k`.*
 
-#### Exercise B: Do some stuff with your chosen text editor
+#### Exercise E: Do some stuff with your chosen text editor
 
 1. Open `Walden.txt` in your text editor.
 2. Go to the end of the file.
@@ -125,16 +125,15 @@ The first step is to take a tutorial. Unless you are already very proficient in 
 13. Save the file as `Walden_improved.txt`.
 14. Quit the editor.
 
+#### Submission Component 4: Video for Exercise E
+Make a video called `ps2_part3.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 14. Submit this video to Canvas. Here are some guidelines:
+
+* As before, practice a few times, and then once you have it down, take the video. 
+* It's okay if you make a mistake in your video. Use your skills to recover from any mistakes you make.
+
 ---
 
-**Reminder:** To receive full credit you must
-
-* Submit the slide from Part 1 to Canvas.
-* Complete the course survey from Part 2.
-* Post a message on Slack for Part 3.
-* Submit the screen capture video from Part 6 to Canvas.
-
-**All components of this problem set are due by Friday, September 15, by 11:59pm Boston time.**
+**All 4 components of this problem set are due by Friday, September 15, by 11:59pm Boston time.**
 
 ---
 
