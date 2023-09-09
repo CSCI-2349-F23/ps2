@@ -2,10 +2,10 @@
 
 This problem set has four components that must be submitted to Canvas:
 
-* Component 1: List of commands for Exercises A, B, and C
-* Component 2: Video for Exercises A, B, and C
-* Component 3: Answers to Questions Q1 through Q8
-* Component 4: Video for Exercise D
+* Component 1: List of commands for Exercises A, B, and C (`ps2_part2_commands.txt`)
+* Component 2: Video for Exercises A, B, and C (`ps2_part2_video.txt`)
+* Component 3: Answers to Questions Q1 through Q8 (`ps2_part2_answers.txt`)
+* Component 4: Video for Exercise D (`ps2_part3_video.txt`)
 
 
 **All components of this problem set are due on Canvas by Friday, September 15, by 11:59pm Boston time.**
@@ -85,17 +85,17 @@ As before, you will be taking a video of your screen as you type the commands. P
 
 
 #### Submission Component 1: List of commands for Exercises A, B, and C
-Use the `history` command (along with a few other unix tricks you know) to print out all 32 commands, above, to a file called `ps2_part2.txt`. It's okay, of course, if you include more than 32 commands. You might have some errors or typos, or perhaps you did some sanity checking (e.g., checking your current directory or its contents). Submit this file to Canvas.
+Use the `history` command (along with a few other unix tricks you know) to print out all 32 commands, above, to a file called `ps2_part2_commands.txt`. It's okay, of course, if you include more than 32 commands. You might have some errors or typos, or perhaps you did some sanity checking (e.g., checking your current directory or its contents). Submit this file to Canvas.
 
 #### Submission Component 2: Video for Exercises A, B, and C
-Make a video called `ps2_part2.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 32. Submit this video to Canvas. Here are some guidelines:
+Make a video called `ps2_part2_video.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 32. Submit this video to Canvas. Here are some guidelines:
 
 * As before, practice a few times, and then once you have it down, take the video. 
 * Feel free in your video to use "sanity-check" commands (e.g., `ls` and `pwd`) that are not specified in the instructions below.
 * It's okay if you make a mistake in your video, but only if it's easy for you to recover from it. For example, if you mistype a file name, it's okay -- just keep going. On the other hand, if you accidentally delete a file, start over.
 
 #### Submission Component 3: Answers to Questions Q1 through Q8
-Submit a pdf, called `ps2_part2.pdf` of your answers to Questions Q1 through Q8 to Canvas. Give thoughtful answers using complete sentences to receive full credit.
+Submit a pdf, called `ps2_part2_answers.pdf` of your answers to Questions Q1 through Q8 to Canvas. Give thoughtful answers using complete sentences to receive full credit.
 
 
 ### Part 3: Show me your text editor skills
@@ -127,7 +127,7 @@ The first step is to take a tutorial. Unless you are already very proficient in 
 14. Quit the editor.
 
 #### Submission Component 4: Video for Exercise E
-Make a video called `ps2_part3.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 14. Submit this video to Canvas. Here are some guidelines:
+Make a video called `ps2_part3_video.mov` (replace `mov` with whatever file extension is produced by your screen capture software) of your terminal as you carry out the above activities, numbered 1 through 14. Submit this video to Canvas. Here are some guidelines:
 
 * As before, practice a few times, and then once you have it down, take the video. 
 * It's okay if you make a mistake in your video. Use your skills to recover from any mistakes you make.
