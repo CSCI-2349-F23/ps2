@@ -3,9 +3,9 @@
 This problem set has four components that must be submitted to Canvas:
 
 * Component 1: List of commands for Exercises A, B, and C (`ps2_part2_commands.txt`)
-* Component 2: Video for Exercises A, B, and C (`ps2_part2_video.txt`)
-* Component 3: Answers to Questions Q1 through Q8 (`ps2_part2_answers.txt`)
-* Component 4: Video for Exercise D (`ps2_part3_video.txt`)
+* Component 2: Video for Exercises A, B, and C (`ps2_part2_video.mov`)
+* Component 3: Answers to Questions Q1 through Q8 (`ps2_part2_answers.pdf`)
+* Component 4: Video for Exercise D (`ps2_part3_video.mov`)
 
 
 **All components of this problem set are due on Canvas by Friday, September 15, by 11:59pm Boston time.**
