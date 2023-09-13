@@ -37,7 +37,7 @@ As before, you will be taking a video of your screen as you type the commands. P
 2. Move into that directory.
 3. Get the file at this location: `https://www.gutenberg.org/files/17489/17489-8.txt`
 4. Rename the file to `les_miz_french1.txt`
-5. Get this file at this location: `https://www.gutenberg.org/cache/epub/17489/pg17489.txt`
+5. <span style="color:red">Get this file at this location: `https://www.gutenberg.org/cache/epub/17489/pg17489.txt`</span>
 6. Rename the file to `les_miz_french2.txt`
 7. Get this file at this location: `https://gutenberg.org/files/135/old/lesms10.txt`
 8. Rename the file to `les_miz_english.txt`
@@ -58,8 +58,8 @@ As before, you will be taking a video of your screen as you type the commands. P
 12. Using a single line containing one or more unix commands, create a file called `file_contents.txt` whose first line says "Here is information about my books".
 13. Append to that file a list of the detailed contents of the `ps2` directory, making sure the size is human readable and the files are ordered in reverse alphabetical order.
 14. Create a new file called `book_list.txt` that contains all of the lines of `file_contents.txt` except for the line containing information about `file_contents.txt` itself. **Again, you must create this file using a single line containing one more more unix commands. You may not directly edit the file with vim or emacs.** It might be helpful to explore the `man` page for a few of the commands we have learned. There are several different ways to do this, all of which are fine!
-16. *(Here's where I had to change things. The version of Walden that was available last week is no longer available, so the cool trick I was going to have you do doesn't work anymore.)* Convert `les_miz_french1.txt` from `ISO8859-1` to `utf8` and save the file as `les_miz_french1_utf8.txt`.  
-17. Use a unix command to look at the differences between these two files.
+15. *(Here's where I had to change things. The version of Walden that was available last week is no longer available, so the cool trick I was going to have you do doesn't work anymore.)* Convert `les_miz_french1.txt` from `ISO8859-1` to `utf8` and save the file as `les_miz_french1_utf8.txt`.  
+16. Use a unix command to look at the differences between these two files.
 
 #### Q5: Are the two files different, according to the command you used? If so, describe how they differ with examples.
 
