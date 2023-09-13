@@ -1,6 +1,4 @@
-# I had to update the problem set because of some broken links in Gutenberg. :(
-# Don't do the problem set until you come back and no longer see this message.
-# Thank you for your patience!
+# The problem set has been updated, 9/13 3:45pm.
 
 # Problem Set 2 
 
@@ -12,7 +10,7 @@ This problem set has four components that must be submitted to Canvas:
 * Component 4: Video for Exercise D (`ps2_part3_video.mov`)
 
 
-**All components of this problem set are due on Canvas by Friday, September 15, by 11:59pm Boston time.**
+**All components of this problem set are due on Canvas by Monday, September 18, by 11:59pm Boston time.**
 
 ---
 
@@ -144,7 +142,7 @@ Make a video called `ps2_part3_video.mov` (replace `mov` with whatever file exte
 
 ---
 
-**All 4 components of this problem set are due by Friday, September 15, by 11:59pm Boston time.**
+**All 4 components of this problem set are due by Monday, September 18, by 11:59pm Boston time.**
 
 ---
 
