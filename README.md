@@ -1,3 +1,7 @@
+# I had to update the problem set because of some broken links in Gutenberg. :(
+# Don't do the problem set until you come back and no longer see this message.
+# Thank you for your patience!
+
 # Problem Set 2 
 
 This problem set has four components that must be submitted to Canvas:
